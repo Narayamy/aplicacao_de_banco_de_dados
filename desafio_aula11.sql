@@ -37,3 +37,5 @@ WHERE NOT titulo = 'Matrix';
 -- Salve todas as suas 5 consultas SELECT em um único arquivo chamado desafio_aula11.sql.
 -- Faça o commit e push do arquivo para seu repositório no GitHub com a mensagem "Desafio da Aula 11 concluído".
 
+
+
